@@ -41,3 +41,13 @@ const factorial = function(num) {
     }
     return result;
 };
+
+
+module.exports = {
+    add, 
+    factorial, 
+    power, 
+    sum, 
+    subtract, 
+    multiply
+}
